@@ -157,3 +157,43 @@ body{
   font-size: 16px;
   line-height: 24px;
 }
+.classic{
+  margin:0 auto;
+  background: #FFFFFF;
+}
+.classic h2{
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 48px;
+  font-size: 48px;
+  line-height: 72px;
+  color:#650300;
+  font-weight: bold;
+}
+.classic-title{
+  display: flex;
+  justify-content: center;
+}
+.classic-img {
+  width: 416px;
+  margin-right: 24px;
+  padding-bottom: 80px;
+  text-align: center;
+}
+.classic-img p{
+  font-size: 48px;
+  line-height: 72px;
+  color:#AA0601;
+  font-weight: bold;
+  padding-top: 8px;
+}
+.feature{
+  height: 608px;
+  background-image: url(../img/index-bg.png);
+  background-position: center;
+  background-size:contain;
+  background-size: cover;
+}
+.feature-title{
+  display: flex;
+}
